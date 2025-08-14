@@ -15,3 +15,5 @@ Make sure you have Python 3.8+ and PyTorch installed.
 You can install dependencies with:
 ```bash
 pip install torch matplotlib numpy
+
+<img width="790" height="811" alt="image" src="https://github.com/user-attachments/assets/72309d34-be93-44e2-93af-c45f576f951a" />
